@@ -6,6 +6,10 @@
 This project applies supervised learning techniques to predict Titanic passenger survival.
 It demonstrates the full ML workflow: EDA → Feature Engineering → Model Building → Evaluation.
 
+## Run
+jupyter notebook UspMLproject.ipynb
+
+
 ## Deliverables
 -  Notebook: `Titanic_Project_Notebook.ipynb`
 -  Report (PDF): `Titanic_Final_Report.pdf`
