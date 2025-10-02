@@ -6,8 +6,13 @@
 This project applies supervised learning techniques to predict Titanic passenger survival.
 It demonstrates the full ML workflow: EDA → Feature Engineering → Model Building → Evaluation.
 
-## Run
-jupyter notebook UspMLproject.ipynb
+## How to Run
+
+1. Activate the base environment:
+   ```bash
+   conda activate base
+2. jupyter notebook
+
 
 
 ## Deliverables
