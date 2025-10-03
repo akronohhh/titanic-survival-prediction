@@ -7,7 +7,7 @@ It demonstrates the full ML workflow: EDA → Feature Engineering → Model Buil
 
 ## Deliverables
 - [Notebook: UspMLproject.ipynb](UspMLproject.ipynb)  
-- Video Presentation: [Link to Video]（https://drive.google.com/file/d/1GPtiryU4TuGJTaBCo2J_9DU88qvh1HIP/view?usp=drive_link）
+- Video Presentation:（https://drive.google.com/file/d/1GPtiryU4TuGJTaBCo2J_9DU88qvh1HIP/view?usp=drive_link）
 
 - 
 ## How to Run
