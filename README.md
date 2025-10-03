@@ -13,12 +13,9 @@ It demonstrates the full ML workflow: EDA → Feature Engineering → Model Buil
 ## How to Run
 1. Download the Titanic dataset from Kaggle  
 2. Place `train.csv` and `test.csv` in a same folder  
-3. Run the notebook  
-
-0. Activate the base environment:
-   ```bash
-   conda activate base
-0. jupyter notebook
+3. Make sure you have Anaconda installed.
+Activate your base environment (or another environment with required packages):　conda activate base
+Start Jupyter Notebook:　jupyter notebook
 
 
 
