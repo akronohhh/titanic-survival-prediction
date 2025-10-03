@@ -5,18 +5,16 @@ This project applies supervised learning techniques to predict Titanic passenger
 It demonstrates the full ML workflow: EDA → Feature Engineering → Model Building → Evaluation.
 
 ## How to Run
+1. Download the Titanic dataset from Kaggle  
+2. Place `train.csv` and `test.csv` in a same folder  
+3. Run the notebook  
 
-1. Activate the base environment:
+0. Activate the base environment:
    ```bash
    conda activate base
-2. jupyter notebook
+0. jupyter notebook
 
 
-
-## Deliverables
--  Notebook: `Titanic_Project_Notebook.ipynb`
--  Report (PDF): `Titanic_Final_Report.pdf`
--  Demo of my work: 
 
 
 ## Data
