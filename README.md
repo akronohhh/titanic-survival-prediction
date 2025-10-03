@@ -4,6 +4,12 @@
 This project applies supervised learning techniques to predict Titanic passenger survival.
 It demonstrates the full ML workflow: EDA → Feature Engineering → Model Building → Evaluation.
 
+
+## Deliverables
+- [Notebook: UspMLproject.ipynb](UspMLproject.ipynb)  
+- Video Presentation: [Link to Video]（https://drive.google.com/file/d/1GPtiryU4TuGJTaBCo2J_9DU88qvh1HIP/view?usp=drive_link）
+
+- 
 ## How to Run
 1. Download the Titanic dataset from Kaggle  
 2. Place `train.csv` and `test.csv` in a same folder  
