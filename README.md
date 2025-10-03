@@ -15,6 +15,7 @@ It demonstrates the full ML workflow: EDA → Feature Engineering → Model Buil
 2. Place `train.csv` and `test.csv` in a same folder  
 3. Make sure you have Anaconda installed.
 Activate your base environment (or another environment with required packages):　conda activate base
+
 Start Jupyter Notebook:　jupyter notebook
 
 
