@@ -1,5 +1,3 @@
-# titanic-survival-prediction
-
 # Titanic Survival Prediction: A Supervised Learning Project
 
 ## Overview
@@ -19,7 +17,7 @@ It demonstrates the full ML workflow: EDA → Feature Engineering → Model Buil
 -  Notebook: `Titanic_Project_Notebook.ipynb`
 -  Report (PDF): `Titanic_Final_Report.pdf`
 -  Demo of my work: 
--  Source code in `src/`
+
 
 ## Data
 The dataset is from Kaggle's [Titanic Competition](https://www.kaggle.com/c/titanic/data).  
