@@ -9,7 +9,7 @@ It demonstrates the full ML workflow: EDA → Feature Engineering → Model Buil
 - [Notebook: UspMLproject.ipynb](UspMLproject.ipynb)  
 - Video Presentation:（https://drive.google.com/file/d/1GPtiryU4TuGJTaBCo2J_9DU88qvh1HIP/view?usp=drive_link）
 
-- 
+- Presentaion PDF: https://github.com/akronohhh/titanic-survival-prediction/blob/main/UspMLproject.ipynb
 ## How to Run
 1. Download the Titanic dataset from Kaggle  
 2. Place `train.csv` and `test.csv` in a same folder  
